@@ -2,13 +2,16 @@
 
 #### By Matt Wilkinson
 
-#### HTML Professinal Portfolio
+#### Professional Portfolio in HTML
+
+## Github links
+https://wilkinsonmatt.github.io/portfolio/
+https://github.com/wilkinsonmatt/portfolio/tree/gh-pages
 
 ## Technologies Used
 
 * CSS
 * HTML
-
 
 ## Description
 
