@@ -5,8 +5,8 @@
 #### Professional Portfolio in HTML
 
 ## Github links
-https://wilkinsonmatt.github.io/portfolio/
-https://github.com/wilkinsonmatt/portfolio/tree/gh-pages
+* https://wilkinsonmatt.github.io/portfolio/
+* https://github.com/wilkinsonmatt/portfolio/tree/gh-pages
 
 ## Technologies Used
 
