@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=ocdwh0KYeUs&t=719s
 * 11:25: https://www.youtube.com/watch?v=9eMp8l4WEpE
 * 1:00: Start React tutorial on sololearn https://www.sololearn.com/learning/1097
 * 1:50: finished "getting Started" react sololearn
+* 4:50: finished "intro to react" react sololearn
