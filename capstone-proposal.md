@@ -11,7 +11,6 @@
 * HTML/CSS
 * Markdown
 
-
 ## Description
 
 A portfolio that displays infomation about me. The site also inculdeds examples of my previous projects and github links to them.
@@ -86,8 +85,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
 
 
 
