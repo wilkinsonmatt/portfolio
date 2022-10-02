@@ -2,12 +2,7 @@
 
 #### By Matt Wilkinson
 
-
-#### A simple React app for a Tea shop. You can add different Teas amd buy teas by the ounce. 
-
-## Github links
-
-https://github.com/wilkinsonmatt/TeaShop.git
+#### My Professional portfolio that shows what I bring to the table as a programmer. Written in React. 
 
 ## Technologies Used
 
@@ -19,7 +14,7 @@ https://github.com/wilkinsonmatt/TeaShop.git
 
 ## Description
 
-You can add different Teas with a description, price, and the quantity to then be sold and bought until it's un-stocked. You can also add new Teas. 
+A portfolio that displays infomation about me. The site also inculdeds examples of my previous projects and github links to them.
 
 # Getting Started with Create React App
 
