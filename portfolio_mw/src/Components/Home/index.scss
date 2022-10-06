@@ -1,26 +1,11 @@
 .home-page {
-  background: #181818;
-  width: 160px;
-  height: 100%;
-  position: absolute;
-  top: 40;
-  z-index: 3;
-  min-height: 500px;
+  .text-zone {
+      position: absolute;
+  }
 
-  .logo {
-    display: block;
-    padding: 4444px 0;
-    top: 40;
-
+  h1 {
     img {
-      display: block;
-      margin: 20px auto;
-      width: 125px;
-      height: auto;
-
-      &.sub-logo {
-        width: 50px;
-      }
+      width: 32px;
     }
   }
 }

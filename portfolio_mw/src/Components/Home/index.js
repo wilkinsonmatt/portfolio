@@ -1,21 +1,26 @@
+import { Link } from 'react-router-dom';
+import LogoTitle from '../../assets/images/logo-s.png';
 import img1 from '../../assets/pictures/img4.jpg';
-import { Link,  } from 'react-router-dom';
+import './index.scss';
 
 
 const Home = () => { 
 
   return (
     <div classsName = "container home-page">
-      <Link className='logo' to='/'>
-        
-        I'm Full Stack Developer in
-        <p>I'm Full Stack Developer in <span class="typed" data-typed-items="JavaScript, React, C#, .NET"></span></p>
-      lobodan
-      </Link>
-      web
+      <div className="text-zone">
+        <h1> Hi, <br /> I'm 
+        {/* <img src={LogoTitle} alt="developer" /> */}
+        lobodanllllllllllllllllllllllllllllllllllllll
+        <br />
+        web developer
+        </h1>
+        <h2>Full Stack Developer</h2>
+        <Link to="contact" className='flat-button'>CONTACT ME</Link>
+      </div>
     </div>
   );
-};
+}
 
 export default Home
 
