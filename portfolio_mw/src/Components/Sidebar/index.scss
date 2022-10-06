@@ -8,24 +8,16 @@
   min-height: 500px;
 
   .logo {
-    display: block;
-    padding: 8px 0;
-    font-size: 133px;
-
     img {
       display: block;
       margin: 20px auto;
       width: 60%;
       height: auto;
-
-      &.sub-logo {
-        width: 50px;
-      }
     }
   }
 
   h1 {
-    font: 300 18px/1.4 'Helvetica';
+    font: 300 20px/1.4 'Helvetica';
     color: #fff;
     text-align: center;
   }
@@ -34,8 +26,8 @@
     display: block;
     text-align: center;
     position: relative;
-    height: 210px;
-    top: 30%;
+    height: 190px;
+    top: 15%;
     margin-top: -120px;
     width: 100%;
 
@@ -97,15 +89,28 @@
       }
     }
 
-    a.portfolio-link {
+    a.skills-link {
       &:after {
-        content: 'PORTFOLIO';
+        content: 'SKILLS';
       }
     }
 
+    a.education-link {
+      &:after {
+        content: 'EDUCATION';
+      }
+    }
+
+    a.projects-link {
+      &:after {
+        content: 'PROJECTS';
+      }
+    }
+
+
     a.active {
       svg {
-        color: #f08242;
+        color: #f37b35;
       }
     }
   }

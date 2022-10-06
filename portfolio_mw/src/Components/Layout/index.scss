@@ -10,11 +10,47 @@
   height: 100%;
   min-height: 566px;
   position: absolute;
-  opacity: 0;
   top: 0%;
   margin: 0 auto;
   z-index: 1;
-  // transform-style: preserve-3d;
-  animation: fadeIn 0s forwards;
-  animation-delay: 0s;
+}
+
+.container.about-page,
+.container.contact-page,
+.container.projects-page,
+.container.skills-page,
+.container.education-page {
+  .text-zone {
+    position: absolute;
+    left: 8%;
+    top: 45%;
+    transform: translateY(-50%);
+    width: 50%;
+    vertical-align: middle;
+    display: table-cell;
+    max-height: 90%;
+
+    h1 {
+      font: 300 18px/1.4 'Helvetica';
+      color: #fff;
+      font-size: 45px;
+      font-weight: 400;
+      margin-top: 0;
+      position: relative;
+      left: 35%;
+    }
+
+    p {
+      font: 300 18px/1.4 'Helvetica';
+      color: #fff;
+      font-size: 23px;
+      font-weight: 400;
+      margin-top: 0;
+      position: relative;
+      margin-bottom: 40px;
+      left: 37.5%;
+    }
+
+
+  }
 }

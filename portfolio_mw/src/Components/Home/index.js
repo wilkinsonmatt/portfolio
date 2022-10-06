@@ -10,10 +10,10 @@ const Home = () => {
     <div className = "container home-page">
       <div className="text-zone">
         <h1> Matt Wilkinson
-        <img src={LogoTitle} alt="developer" />
+        <p>Full Stack Developer</p>
+        {/* <img src={LogoTitle} alt="developer" /> */}
         </h1>
-        <h2>Full Stack Developer</h2>
-        <Link to="contact" className='flat-button'>CONTACT ME</Link>
+        
       </div>
     </div>
   );
@@ -24,4 +24,3 @@ export default Home
 
 
 
-{/* <img src={img1} alt="logo" /> */}
