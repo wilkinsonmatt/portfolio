@@ -1,7 +1,11 @@
 .home-page {
+  background-image: url("../../assets/pictures/img4.jpg");  overflow: hidden;
+
   .text-zone {
+    font: 300 30px/1.4 'Helvetica';
+    color: #fff;
     position: absolute;
-    left: 10%;
+    left: 36%;
     top: 50%;
     transform: translateY(-50%);
     width: 40%;
@@ -9,10 +13,12 @@
   }
 
   h1 {
+    font: 00 30px/1.4 'Helvetica';
+
     img {
       margin-left: 20px;
       opacity: 0;
-      width: 32px;
+      width: 62px;
       height: auto;
       animation: rotateIn 1s linear both;
       animation-delay: 1.4s;
