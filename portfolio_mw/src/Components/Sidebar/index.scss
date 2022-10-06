@@ -28,12 +28,12 @@
     text-align: center;
     position: relative;
     height: 210px;
-    top: 50%;
+    top: 30%;
     margin-top: -120px;
     width: 100%;
 
     a {
-      font-size: 30px;
+      font-size: 33px;
       color: #4d4d4e;
       display: block;
       line-height: 51px;
@@ -103,5 +103,30 @@
     }
   }
 
+  ul {
+    position: absolute;
+    bottom: 45px;
+    width: 100%;
+    display: block;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    margin: 0;
 
+    li {
+      a {
+        padding: 15px 0;
+        display: block;
+        font-size: 22px;
+        line-height: 16px;
+        color: #4d4d4e;
+      }
+
+      &:hover {
+        .anchor-icon {
+          color: #ffd700;
+        }
+      }
+    }
+  }
 }

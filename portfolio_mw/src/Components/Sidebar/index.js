@@ -51,7 +51,7 @@ const Sidebar = () => (
         <a 
         target="_blank" 
         rel='noreferrer' 
-        href='https://github.com/wilkinsonmatt'
+        href='https://docs.google.com/document/d/1QE6gWOPq0Pz5SdzO0BsOl7SfFNahGAsyNiqR7laakG0/edit?usp=sharing'
         >
           <FontAwesomeIcon icon={faFilePdf} color="#4d4d4e" />
         </a>
