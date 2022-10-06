@@ -7,11 +7,11 @@ import './index.scss';
 const Home = () => { 
 
   return (
-    <div classsName = "container home-page">
+    <div className = "container home-page">
       <div className="text-zone">
         <h1> Hi, <br /> I'm 
-        {/* <img src={LogoTitle} alt="developer" /> */}
-        lobodanllllllllllllllllllllllllllllllllllllll
+        <img src={LogoTitle} alt="developer" />
+        lobodanllllllllllllllllllllllllllllllllllllll111111111111111111111111111111111111111111111
         <br />
         web developer
         </h1>
