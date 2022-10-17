@@ -7,7 +7,6 @@ const Education = () => {
       <div className="text-zone">
         <h1><strong>Education</strong></h1>
 
-
           <div class="box2">
       <h2>Education:</h2>
       <ul>    
